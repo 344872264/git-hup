@@ -10,5 +10,8 @@ public class Testee {
         System.out.println("dddd");
         System.out.println("xxxx");
 
+        for (int i = 1; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
